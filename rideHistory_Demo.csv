@@ -1,0 +1,6 @@
+visitorId,personId,name,age,membershipType,hasInsurance
+VIS-P6-1,PERSON-P6-1,导出游客1,21,STANDARD,true
+VIS-P6-2,PERSON-P6-2,导出游客2,22,GOLD,true
+VIS-P6-3,PERSON-P6-3,导出游客3,23,STANDARD,true
+VIS-P6-4,PERSON-P6-4,导出游客4,24,GOLD,true
+VIS-P6-5,PERSON-P6-5,导出游客5,25,STANDARD,true
